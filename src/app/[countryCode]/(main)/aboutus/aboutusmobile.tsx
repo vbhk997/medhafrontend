@@ -33,7 +33,7 @@ const AboutUsMobile = () => {
             We focus on identifying and honing the unique strengths of each individual, providing them with the tools and guidance they need to thrive in both academic and organizational settings.
           </p>
           <p className="text-sm text-gray-700 mb-2">
-            We are committed to fostering a culture of personal empowerment, ensuring everyone is equipped to navigate the challenges of today's dynamic world.
+            We are committed to fostering a culture of personal empowerment, ensuring everyone is equipped to navigate the challenges of today&#39;s dynamic world.
           </p>
         </div>
 

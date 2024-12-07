@@ -91,7 +91,7 @@ const Founder = () => {
               <li>He holds degrees in Science and Law and has completed Strategic Human Resource Management from Ross School of Business, University of Michigan, Ann Arbor, US.</li>
               <li>He has over 32 years of corporate experience in innovating organisation development processes, career design interventions, Strength based Executive Coaching, professional & life transformation counselling, leadership development, project management.</li>
               <li>He is also a Strength Based Executive Coach certified by Gallup, US, with global experience in USA, UK, Singapore, Mexico and UAE</li>
-              <li>His commendable work has enabled him to win various awards such as 'CHRO of the Year award 2020', 'CSR Leadership Excellence Award 2019'.</li>
+              <li>His commendable work has enabled him to win various awards such as &#39;CHRO of the Year award 2020&#39;, &#39;CSR Leadership Excellence Award 2019&#39;.</li>
             </ul>
           </div>
         </div>

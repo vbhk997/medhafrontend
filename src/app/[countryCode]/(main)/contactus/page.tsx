@@ -59,7 +59,7 @@ const ContactUs = () => {
       <div className="w-full max-w-lg">
         <Heading level="h1" className="text-3xl mb-2 text-center">Contact Us</Heading>
         <p className="text-lg mb-6 text-center">
-          We'd love to hear from you! Please fill out the form below and we will get back to you as soon as possible.
+          We&#39;d love to hear from you! Please fill out the form below and we will get back to you as soon as possible.
         </p>
         <form className="flex flex-col space-y-4" onSubmit={handleSubmit}>
           <label className="flex flex-col">

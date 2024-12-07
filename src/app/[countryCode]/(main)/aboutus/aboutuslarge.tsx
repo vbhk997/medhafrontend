@@ -47,14 +47,14 @@ const AboutUsLarge = () => {
                 We focus on identifying and honing the unique strengths of each individual, providing them with the tools and guidance they need to thrive in both academic and organizational settings.
               </p>
               <p className="text-base md:text-lg text-gray-700 mb-4">
-                We are committed to fostering a culture of personal empowerment, ensuring everyone is equipped to navigate the challenges of today's dynamic world.
+                We are committed to fostering a culture of personal empowerment, ensuring everyone is equipped to navigate the challenges of today&#39;s dynamic world.
               </p>
             </div>
             {/* Back Side */}
             <div className="flip-card-back bg-gray-100 p-6 rounded-lg shadow-md flex flex-col justify-center items-center">
               <Heading level="h2" className="text-xl font-semibold mb-4">More About Medha</Heading>
               <p className="text-base md:text-lg text-gray-700">
-                Medha is not just about talent; it's about transformation. We provide a comprehensive approach to personal and professional development that goes beyond the ordinary.
+                Medha is not just about talent; it&#39;s about transformation. We provide a comprehensive approach to personal and professional development that goes beyond the ordinary.
               </p>
               <p className="text-base md:text-lg text-gray-700 mt-4">
                 Our unique blend of corporate and spiritual insights helps individuals achieve their highest potential.
